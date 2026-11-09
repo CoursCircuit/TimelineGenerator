@@ -1,6 +1,6 @@
 # Frise chronologique
 
-Créé par Sylvain Bovat. Un éditeur visuel gratuit pour créer des frises chronologiques, organiser des événements et des périodes, puis partager le résultat. L’interface est en français et fonctionne dans un navigateur moderne, sur ordinateur ou mobile.
+Créé par S.Bovat. Un éditeur visuel gratuit pour créer des frises chronologiques, organiser des événements et des périodes, puis partager le résultat. L’interface est en français et fonctionne dans un navigateur moderne, sur ordinateur ou mobile.
 
 **[Ouvrir l’application](https://courscircuit.github.io/TimelineGenerator/)**.
 
