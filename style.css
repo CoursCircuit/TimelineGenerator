@@ -2220,3 +2220,6 @@ code {
     transition-duration: 0.01ms !important;
   }
 }
+
+.creator-credit { color: #5c6574; font-size: 10px; white-space: nowrap; }
+@media (max-width: 640px) { .canvas-hint { display: none; } }
