@@ -1,6 +1,6 @@
 # Frise chronologique
 
-Créé par S.Bovat. Un éditeur visuel gratuit pour créer des frises chronologiques, organiser des événements et des périodes, puis partager le résultat. L’interface est en français et fonctionne dans un navigateur moderne, sur ordinateur ou mobile.
+Un éditeur visuel gratuit pour créer des frises chronologiques, organiser des événements et des périodes, puis partager le résultat. L’interface est en français et fonctionne dans un navigateur moderne, sur ordinateur ou mobile.
 
 **[Ouvrir l’application](https://courscircuit.github.io/TimelineGenerator/)**.
 
@@ -24,3 +24,5 @@ Le brouillon est enregistré dans le navigateur. Les polices proviennent de Goog
 ## Licence et composants tiers
 
 Le code de l’application est proposé sous [licence MIT](LICENSE). Les bibliothèques externes html2canvas et jsPDF sont elles aussi sous licence MIT ; leurs mentions et licences sont conservées dans [licences-tierces](licences-tierces/). Les polices Google Fonts et les images ajoutées par l’utilisateur peuvent être soumises à leurs propres licences.
+
+*Créé par S. Bovat*
