@@ -2,7 +2,7 @@
 
 Un éditeur visuel gratuit pour créer des frises chronologiques, organiser des événements et des périodes, puis partager le résultat. L’interface est en français et fonctionne dans un navigateur moderne, sur ordinateur ou mobile.
 
-**[Ouvrir l’application](https://courscircuit.github.io/TimelineGenerator/)** — lien prévu pour GitHub Pages après mise en ligne.
+**[Ouvrir l’application](https://courscircuit.github.io/TimelineGenerator/)**.
 
 ## Premiers pas
 
