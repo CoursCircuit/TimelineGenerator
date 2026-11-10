@@ -25,4 +25,6 @@ Le brouillon est enregistré dans le navigateur. Les polices proviennent de Goog
 
 Le code de l’application est proposé sous [licence MIT](LICENSE). Les bibliothèques externes html2canvas et jsPDF sont elles aussi sous licence MIT ; leurs mentions et licences sont conservées dans [licences-tierces](licences-tierces/). Les polices Google Fonts et les images ajoutées par l’utilisateur peuvent être soumises à leurs propres licences.
 
+Cette application a été vibe codée par un non-développeur, à l’origine pour ses propres besoins.
+
 *Créé par S. Bovat*
